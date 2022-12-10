@@ -1,0 +1,7 @@
+#include "../ex06/ft_print_comb2.c"
+
+int main(void){
+	ft_print_comb2();
+
+	return 0;
+}
